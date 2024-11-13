@@ -1,0 +1,12 @@
+.container {
+    background-color: red;
+    height: 34vh;
+}
+@media screen and (max-width: 800px) {
+    body {
+        background-color: brown;
+    }
+    .container {
+        background-color: blue;
+    }
+}
