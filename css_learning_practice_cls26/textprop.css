@@ -1,0 +1,13 @@
+h3 {
+    font-size: 34px;
+}
+p {
+    width: 820px;
+    height: 470px;
+    background-color: rebeccapurple;
+    /* text-decoration: wavy underline; */
+    text-transform: capitalize;
+    /* line-height: 0.2px; */
+    font-size: 23px;
+    font-family: 'poppins', sans-serif;
+}
