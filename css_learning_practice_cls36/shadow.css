@@ -1,0 +1,20 @@
+.container {
+    background-color: beige;
+    height: 550px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    height: 200px;
+}
+.box {
+    background-color: aquamarine;
+    width: 330px;
+    height: 330px;
+    border: 1px solid brown;
+    margin: 5px;
+    padding: 5px;
+    box-shadow: 1px 1px 10px #4b4b4b;
+}
